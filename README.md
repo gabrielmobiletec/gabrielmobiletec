@@ -1,16 +1,20 @@
-## Hi there 👋
+### Olá 👋, eu sou o Gabriel!
 
-<!--
-**gabrielmobiletec/gabrielmobiletec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://github.com/gabrielmobiletec">
+    <img src="https://komarev.com/ghpvc/?username=gabrielmobiletec&style=flat-square&color=blue" alt="Perfil Views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrielmobiletec&show_icons=true&theme=prussian&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmobiletec&layout=compact&langs_count=6&theme=prussian&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Minha Contribuição Streak
+
+[![Estatísticas de Contribuição](https://github-readme-streak-stats.demolab.com/?user=gabrielmobiletec&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### Tech Stack e Ferramentas
